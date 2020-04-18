@@ -25,7 +25,7 @@ git push
 echo "更新完成！"
 echo "更新博客开始！"
 
-cd $hxc_path
+cd $coconut_path
 cp $book $book_bak
 
 #添加固定的头
