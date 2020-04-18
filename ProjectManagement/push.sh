@@ -1,7 +1,8 @@
 #!/bin/bash
 message=$1
 
-if [$message == ""] ;then
+if [[ $message = "" ]];
+then
 echo "请输入commit 参数"
 exit
 fi
