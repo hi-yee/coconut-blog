@@ -13,7 +13,7 @@ book="2020-04-13-my-$now_book"
 #中间bak文件名
 book_bak="2020-04-13-my-bak-$now_book"
 
-coconut_path="../../coconut.github.io/_posts"
+coconut_path="../../hi-yee.github.io/_posts"
 
 #更新自己的分支
 echo "更新开始！"
