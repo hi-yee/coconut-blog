@@ -5,4 +5,4 @@
 
 ##第二章
 
-![图片](/images/imagesProjectManagement/shiwu_1.png)
+![图片](https://hi-yee.github.io/coconut-blog/images/imagesProjectManagement/shiwu_1.png)
