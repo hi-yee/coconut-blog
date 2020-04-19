@@ -6,6 +6,12 @@
 
 ## 项目管理
 
-### 项目book 
+### 系统集成项目管理工程师 
 
 - [项目管理](ProjectManagement/projectManagement.md)
+
+## 软件测试
+
+### 软件测试基础理论知识
+
+- [项目管理](SoftwareTestingTheory/SoftwareTestingTheory.md)
