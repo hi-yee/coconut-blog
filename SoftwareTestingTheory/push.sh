@@ -38,7 +38,7 @@ date:       2020-04-19              # 时间
 author:     coconut                      # 作者
 header-img:    #这篇文章标题背景图片
 catalog: true                       # 是否归档
-category:软件测试
+categories: 软件测试
 tags:                               #标签
     - 软件测试
 ---" > $book 
