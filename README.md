@@ -15,3 +15,7 @@
 ### 软件测试基础理论知识
 
 - [1.软件测试基础理论知识](SoftwareTestingTheory/SoftwareTestingTheory.md)
+
+### 计算机理论知识
+
+- [1.冯诺依曼结构](ComputerRelatedTheory/VonNeumannArchitecture.md)
