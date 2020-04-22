@@ -6,6 +6,13 @@
 
 > ## 编程语言/programming language
 
+> ### 学习自动化测试必学
+- [1.Python](ProgrammingLanguage/MyPython.md)
+- [2.Java](ProgrammingLanguage/Java.md)
+
+---
+> ## 编程语言/programming language
+
 > ##### 学习自动化测试必学
 - [1.Python](ProgrammingLanguage/MyPython.md)
 - [2.Java](ProgrammingLanguage/Java.md)
@@ -16,7 +23,7 @@
 
 > ##### 操作系统
 - [1.Linux](OperatingSystem/Linux.md)
-- [2.Unix]((OperatingSystem/Unix.md)
+- [2.Unix](OperatingSystem/Unix.md)
 
 ---
 
@@ -29,7 +36,7 @@
 ---
 
 > ## 软件测试/Software testing
-
+>
 > ##### 软件测试必学
 - [1.软件测试基础理论知识](SoftwareTesting/SoftwareTestingTheory.md)
 - [2.软件测试的分类](SoftwareTesting/TestCategorization.md)
