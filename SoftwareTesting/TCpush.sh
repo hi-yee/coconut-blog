@@ -8,11 +8,11 @@ exit
 fi
 
 #当前md名称
-now_book="SoftwareTestingTheory.md"
+now_book="TestCategorization.md"
 #cp的文件名称
-book="2020-04-19-my-$now_book"
+book="2020-04-21-my-$now_book"
 #中间bak文件名
-book_bak="2020-04-19-my-bak-$now_book"
+book_bak="2020-04-21-my-bak-$now_book"
 
 coconut_path="../../hi-yee.github.io/_posts"
 
@@ -32,9 +32,9 @@ cp $book $book_bak
 #添加固定的头
 echo "---
 layout:     post                    # 使用的布局（不需要改）
-title:      软件测试基础理论              # 标题
-subtitle:   论如何称为一个一个优秀的project manager     #副标题
-date:       2020-04-19              # 时间
+title:      软件测试的分类              # 标题
+subtitle:   软件测试按照不同的工作范畴，可划分为多种类型     #副标题
+date:       2020-04-21              # 时间
 author:     coconut                      # 作者
 header-img:    #这篇文章标题背景图片
 catalog: true                       # 是否归档
