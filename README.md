@@ -7,24 +7,24 @@
 > ## 编程语言/programming language
 
 > ##### - 学习自动化测试必学
-- [1.Python](SoftwareTesting/SoftwareTestingTheory.md)
-- [2.Java](SoftwareTesting/SoftwareTestingTheory.md)
+- [1.Python](ProgrammingLanguage/MyPython.md)
+- [2.Java](ProgrammingLanguage/Java.md)
   
 ---
   
-> ## 操作系统/The database
+> ## 操作系统/operating system
 
 > ##### - 操作系统
-- [1.Linux(SoftwareTesting/SoftwareTestingTheory.md)
-- [2.Unix](SoftwareTesting/SoftwareTestingTheory.md)
+- [1.Linux](OperatingSystem/Linux.md)
+- [2.Unix]((OperatingSystem/Unix.md)
 
 ---
 
-> ## 数据库/operating system
+> ## 数据库/The database
 
-> ##### - 操作系统
-- [1.Linux(SoftwareTesting/SoftwareTestingTheory.md)
-- [2.Unix](SoftwareTesting/SoftwareTestingTheory.md)
+> ##### - 数据库
+- [1.MySQL](DataBase/MySQL.md)
+
 
 ---
 
@@ -32,33 +32,33 @@
 
 > ##### - 软件测试必学
 - [1.软件测试基础理论知识](SoftwareTesting/SoftwareTestingTheory.md)
-- [2.软件测试的分类](SoftwareTesting/SoftwareTestingTheory.md)
-
-> ##### - 功能测试
-- [1.](SoftwareTesting/SoftwareTestingTheory.md)
-- [2.](SoftwareTesting/SoftwareTestingTheory.md)
-
+- [2.软件测试的分类](SoftwareTesting/TestCategorization.md)
+- [3.软件开发模式](SoftwareTesting/SoftwareDevelopmentModel.md)
 
 > ##### - 性能测试
-- [1.](SoftwareTesting/SoftwareTestingTheory.md)
-- [2.](SoftwareTesting/SoftwareTestingTheory.md)
+- [1.loadrunner](SoftwareTesting/Loadrunner.md)
+- [2.jmeter](SoftwareTesting/Jmeter.md)
 
-> ##### - 手工测试
-- [1.](SoftwareTesting/SoftwareTestingTheory.md)
-- [2.](SoftwareTesting/SoftwareTestingTheory.md)
+> ##### - 接口测试
+- [1.SoapUI](SoftwareTesting/SoapUI.md)
+- [2.postman](SoftwareTesting/Postman.md)
 
-> ##### - 自动化测试
-- [1.](SoftwareTesting/SoftwareTestingTheory.md)
-- [2.](SoftwareTesting/SoftwareTestingTheory.md)
+> ##### - web自动化测试
+- [1.selenium](SoftwareTesting/Selenium.md)
+- [2.QTP](SoftwareTesting/QTP.md)
+
+> ##### - 手机自动化测试
+- [1.robotium](SoftwareTesting/Robotium.md)
+- [2.appium](SoftwareTesting/Appium.md)
 
 > ##### - 其他
-- [1.随机测试](SoftwareTesting/SoftwareTestingTheory.md)
-- [2.冒烟测试](SoftwareTesting/SoftwareTestingTheory.md)
-- [3.安全测试](SoftwareTesting/SoftwareTestingTheory.md)
-- [4.探索性测试](SoftwareTesting/SoftwareTestingTheory.md)
-- [5.回归测试](SoftwareTesting/SoftwareTestingTheory.md)
-- [6.α 测试](SoftwareTesting/SoftwareTestingTheory.md)
-- [7.β 测试](SoftwareTesting/SoftwareTestingTheory.md)
+- [1.随机测试]()
+- [2.冒烟测试]()
+- [3.安全测试]()
+- [4.探索性测试]()
+- [5.回归测试]()
+- [6.α 测试]()
+- [7.β 测试]()
 
 ---
 
