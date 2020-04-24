@@ -260,8 +260,68 @@ Windows   +   Unix   +   Linux   +   苹果
   列如：算A与B的与运算
   
    ![图片](https://hi-yee.github.io/coconut-blog/images/imageSoftwareTestingTheory/ct-18.png)
+   
+   补充：两个多位二进制，进行按位逻辑与运算
+     
+      右侧对齐，A与B对应的位分别进行与运算即可
+      
+      （前位不够当零处理，站位）
+   
+   ⑵、或运算
+   
+   ①逻辑或：当一件事的几个条件中只要有一个条件具备，这件事就会发生。
+   
+   设：开关A、B不通——灯不亮
+   
+   
+    开关A、B通——灯亮
+    
+   ②真是表：输入与输出的对应关系
+   ![图片](https://hi-yee.github.io/coconut-blog/images/imageSoftwareTestingTheory/ct-19.png)
+   
+  总结：输入只要有1输出必有1；输入全是0输出才是0（有1出1，全0才出0）
+
+  ③表达式： Y=A+B
+           
+  ④运算规则：有1出1，全0才0
+  
+  列如：算A与B的或运算
+  ![图片](https://hi-yee.github.io/coconut-blog/images/imageSoftwareTestingTheory/ct-20.png)
+  补充：两个多位二进制，进行按位逻辑或运算
+  
+      右侧对齐，A与B对应的位分别进行或运算即可
+      
+      （前位不够当零处理，站位）
+      
+      
+   ⑶、非运算
+   
+   ①逻辑非：一件事情的发生是以其相反的条件为依据的
+   
+   设：开关A通——灯不亮
+   
+    开关A不通——灯亮
+  
+  ②真是表：输入与输出的对应关系
+    ![图片](https://hi-yee.github.io/coconut-blog/images/imageSoftwareTestingTheory/ct-21.png)
+  总结：输入只要有0输出必有0；输入全是1输出才是1（有0出0，全1才出1）
+
+  ③表达式： Y=—A（A非/A反） 
+          
+  ④运算规则：取反
+  
+  列如：算A的非运算
+   ![图片](https://hi-yee.github.io/coconut-blog/images/imageSoftwareTestingTheory/ct-22.png) 
+
+  **补充：多位二进制，进行按位取反 **  
   
 ## 第三章 软件缺陷和缺陷报告
+>- 测试人员的主要职责
+
+>-编写缺陷报告
+
+>-缺陷报告的处理流程
+
 ### 1、测试人员的主要工作职责
 ### 2、编写缺陷报告
 ### 3、缺陷报告的组成
