@@ -2,7 +2,7 @@
 
 # coconut's-book
 
->各类知识总结11
+>各类知识总结
 
 > ## 编程语言/programming language
 
