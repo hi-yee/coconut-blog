@@ -8,11 +8,11 @@ exit
 fi
 
 #当前md名称
-now_book="ProgrammingLanguage.md"
+now_book="Designportfolio.md"
 #cp的文件名称
 book="2020-06-11-my-$now_book"
 #中间bak文件名
-book_bak="2020-04-22-my-bak-$now_book"
+book_bak="2020-06-11-my-bak-$now_book"
 
 coconut_path="../../hi-yee.github.io/_posts"
 
